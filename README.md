@@ -6,7 +6,7 @@
 
 ## Visualize o Projeto Hospedado:
 
-- <a href="https://avaliacao-zup.vercel.app/">Barbearia Alura Kelvin - 2021</a>  
+- <a href="https://avaliacao-zup.vercel.app/">Zupper's Kelvin - 2021</a>  
 
 ## Faça Networking comigo:
 -  <a href="https://www.linkedin.com/in/kelvinreis-adm/">LINKEDIN</a>  
